@@ -1,0 +1,14 @@
+{
+  "name": "output-timestamp-webpack-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/verybestjp/output-timestamp-webpack-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/verybestjp/output-timestamp-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/verybestjp/output-timestamp-webpack-plugin#readme"
+}

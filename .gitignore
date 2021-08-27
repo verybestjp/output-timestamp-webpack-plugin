@@ -1,0 +1,14 @@
+views/*.js
+views/*/*.js
+*.sw*
+*.db
+node_modules/
+**/node_modules/
+.gitsecret/*/*~
+npm-debug.log.*
+.DS_Store
+logs/*
+env.sh
+.idea/
+.vscode
+*.iml
